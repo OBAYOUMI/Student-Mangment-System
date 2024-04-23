@@ -1,3 +1,5 @@
+#Student-Managment-System
+
 File Handling, User Authentication, User Interface, Database Integration 
 • A student management system written in Python for my Introduction to Computing Class.
 • Handles 3 types of users: student, faculty, and admin.
