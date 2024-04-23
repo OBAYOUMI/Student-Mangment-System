@@ -1,4 +1,4 @@
-#Student-Managment-System
+Student-Managment-System
 
 File Handling, User Authentication, User Interface, Database Integration 
 • A student management system written in Python for my Introduction to Computing Class.
